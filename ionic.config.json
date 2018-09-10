@@ -1,0 +1,7 @@
+{
+  "name": "easypoly",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
